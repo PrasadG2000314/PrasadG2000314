@@ -2,6 +2,12 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadg2000314&label=Profile%20views&color=0e75b6&style=flat" alt="prasadg2000314" /> </p>
+<p>I'm a passionate Full Stack Developer and Designer based in Sri Lanka who loves crafting digital experiences. Welcome to my GitHub repository</p>
+<h2>About me</h2>
+💻 I specialize in Full Stack Development and Design, blending functionality with aesthetics.
+⚙️ My tech stack includes React, React Native, Java, and Node.js.
+🎨 I thrive on creating stunning UI/UX designs that captivate users.
+🎓 Undergraduate at the University of SLIIT, information technology.
 
 - 🌱 I’m currently learning **next.js**
 
